@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Easybank-Landing-Page/static/css/main.15d724eb.css",
+    "main.js": "/Easybank-Landing-Page/static/js/main.57f6b2e1.js",
+    "static/media/bg-intro-desktop.svg": "/Easybank-Landing-Page/static/media/bg-intro-desktop.8be308fd4ce79bd32a09.svg",
+    "static/media/bg-intro-mobile.svg": "/Easybank-Landing-Page/static/media/bg-intro-mobile.c2ed38d05001e62c1c09.svg",
+    "index.html": "/Easybank-Landing-Page/index.html",
+    "main.15d724eb.css.map": "/Easybank-Landing-Page/static/css/main.15d724eb.css.map",
+    "main.57f6b2e1.js.map": "/Easybank-Landing-Page/static/js/main.57f6b2e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15d724eb.css",
+    "static/js/main.57f6b2e1.js"
+  ]
+}
